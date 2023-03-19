@@ -14,8 +14,10 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title"> {"Eddy Docs"} </h1>{" "}
         <p className="hero__subtitle"> {siteConfig.tagline} </p>{" "}
-		<p class="t">Eddy tem funções de diversão, para ajudar na interação com os membros. também possui funções de utilidades, como o /lembrete, para te ajudar a lembrar de algo importante.</p>{" "}
-<p class="t">Eddy foi criado com o intuito de te divertir e te ajudar em algumas tarefas, como: ver a letra de uma música, traduzir um texto para outra língua e etc.</p>{" "}
+		<p>Eddy é um bot incrível para o Discord que oferece funções tanto de utilidade quanto de diversão. Com esse bot, os usuários podem se divertir e também aprender coisas novas, tornando o servidor ainda mais envolvente.</p>
+		<p>Entre as funções de utilidade oferecidas pelo Eddy, estão a possibilidade de ver o clima em uma cidade específica, o que é muito útil para quem precisa se planejar antes de sair de casa. Além disso, o bot permite aos usuários ver o significado de uma palavra, o que é ótimo para quem está estudando um novo idioma ou apenas quer aprender coisas novas.</p>
+		<p>No que diz respeito às funções de diversão, Eddy não decepciona. O bot permite que os usuários girem um dado virtualmente, ideal para quem quer jogar algum jogo de tabuleiro ou RPG online. 
+		Em resumo, Eddy é um bot incrível para o Discord que oferece uma variedade de funções úteis e divertidas.</p>
         <div className={styles.buttons}></div>{" "}
       </div>{" "}
 	  

@@ -5,8 +5,8 @@
 p {
   text-align: left;
 }
-.t{
-  font-size: 13px;
+header{
+  background-color: aqua;
 }
 .heroBanner {
   padding: 4rem 0;
