@@ -14,8 +14,8 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title"> {"Eddy Docs"} </h1>{" "}
         <p className="hero__subtitle"> {siteConfig.tagline} </p>{" "}
-		<p>Eddy tem funções de diversão, para ajudar na interação com os membros. também possui funções de utilidades, como o /lembrete, para te ajudar a lembrar de algo importante.</p>{" "}
-<p>Eddy foi criado com o intuito de te divertir e te ajudar em algumas tarefas, como: ver a letra de uma música, traduzir um texto para outra língua e etc.</p>{" "}
+		<p class="t">Eddy tem funções de diversão, para ajudar na interação com os membros. também possui funções de utilidades, como o /lembrete, para te ajudar a lembrar de algo importante.</p>{" "}
+<p class="t">Eddy foi criado com o intuito de te divertir e te ajudar em algumas tarefas, como: ver a letra de uma música, traduzir um texto para outra língua e etc.</p>{" "}
         <div className={styles.buttons}></div>{" "}
       </div>{" "}
 	  
