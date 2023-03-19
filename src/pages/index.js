@@ -3,7 +3,7 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
+// import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 import styles from "./index.module.css";
 
@@ -16,6 +16,8 @@ function HomepageHeader() {
         <p className="hero__subtitle"> {siteConfig.tagline} </p>{" "}
         <div className={styles.buttons}></div>{" "}
       </div>{" "}
+	<p>Eddy tem funções de diversão, para ajudar na interação com os membros. também possui funções de utilidades, como o /lembrete, para te ajudar a lembrar de algo importante.
+Eddy foi criado com o intuito de te divertir e te ajudar em algumas tarefas, como: ver a letra de uma música, traduzir um texto para outra língua e etc.</p>{" "}
     </header>
   );
 }
