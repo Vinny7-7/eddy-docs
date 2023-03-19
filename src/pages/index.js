@@ -28,9 +28,7 @@ export default function Home() {
       description="Documentação do Eddy bot <head />"
     >
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>{" "}
+      
     </Layout>
   );
 }
