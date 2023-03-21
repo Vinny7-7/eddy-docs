@@ -41,13 +41,13 @@ const config = {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+					//	editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
 				},
 				blog: {
 					showReadingTime: true,
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+					//editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
@@ -109,6 +109,16 @@ const config = {
 						{
 							label: 'Twitter',
 							href: 'https://twitter.com/Eddybot_',
+              },
+            ],
+          },
+				{
+					title: 'Outros',
+					items: [
+
+						{
+							label: 'Me adicione',
+							href: 'https://discord.com/oauth2/authorize?client_id=942232686024593428&permissions=322702&scope=bot%20applications.commands',
               },
             ],
           },
