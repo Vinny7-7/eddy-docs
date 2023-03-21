@@ -15,7 +15,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p>
           Eddy é um bot incrível para o Discord que oferece funções tanto de
-          utilidade quanto de diversão. Com esse bot, os usuários podem se
+          utilidade quanto de diversão. Com o Eddy, os usuários podem se
           divertir e também aprender coisas novas, tornando o servidor ainda
           mais envolvente.
         </p>

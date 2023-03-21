@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Política de privacidade
+description: Política de privacidade do Eddy bot!
 ---
 # Política de privacidade
 Política de privacidade do Eddy bot!
