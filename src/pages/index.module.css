@@ -27,17 +27,18 @@ header{
   justify-content: center;
 }
 button {
-  background-color: none; 
+  background-color: #25C2A0; 
   color: black; /* cor das letras preta */
   border: none; /* remove a borda do botão */
   padding: 10px 20px; /* adiciona um pouco de espaço interno */
   border-radius: 5px; /* adiciona um pouco de arredondamento às bordas */
   transition: background-color 0.5s ease-out;
-  border: 4px solid white ;
+  border: 2px solid white ;
+  font-size: 16px;
 }
 
 /* Define o estilo do botão quando o mouse está sobre ele */
 button:hover {
-  background-color: #00FFFF; /* muda a cor de fundo para verde agua */
+  background-color: #303846; /* muda a cor de fundo para verde agua */
   color: white; /* muda a cor das letras para branca */
 }
