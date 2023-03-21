@@ -19,7 +19,7 @@ function HomepageHeader() {
           divertir e também aprender coisas novas, tornando o servidor ainda
           mais envolvente.
         </p>
-        <p>
+       <!-- <p>
           Entre as funções de utilidade oferecidas pelo Eddy, estão a
           possibilidade de ver o clima em uma cidade específica, o que é muito
           útil para quem precisa se planejar antes de sair de casa. Além disso,
@@ -33,9 +33,9 @@ function HomepageHeader() {
           quer jogar algum jogo de tabuleiro ou RPG online. Em resumo, Eddy é um
           bot incrível para o Discord que oferece uma variedade de funções úteis
           e divertidas.
-        </p>
-        <a href="https://eddybot.ml/convite">
-          <button target="_blank">Me adicione</button>
+        </p> -->
+        <a target="_blank" href="https://eddybot.ml/convite">
+          <button>Me adicione</button>
         </a>
       </div>
     </header>
