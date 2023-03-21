@@ -26,3 +26,16 @@ header{
   align-items: center;
   justify-content: center;
 }
+button {
+  background-color: white; /* cor de fundo branca */
+  color: black; /* cor das letras preta */
+  border: none; /* remove a borda do botão */
+  padding: 10px 20px; /* adiciona um pouco de espaço interno */
+  border-radius: 5px; /* adiciona um pouco de arredondamento às bordas */
+}
+
+/* Define o estilo do botão quando o mouse está sobre ele */
+button:hover {
+  background-color: blue; /* muda a cor de fundo para azul */
+  color: white; /* muda a cor das letras para branca */
+}
