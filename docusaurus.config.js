@@ -73,12 +73,22 @@ const config = {
 					docId: 'inicio',
 					position: 'left',
 					label: 'Documentação',
-          }
-					/*	{
-					href: 'https://github.com/facebook/docusaurus',
-					label: 'GitHub',
+          },
+				{
+					href: 'https://eddybot.ml',
+					label: 'Site principal',
 					position: 'right',
-          },*/
+          },
+				{
+					href: 'https://eddybot.ml/suporte',
+					label: 'Servidor de suporte',
+					position: 'right',
+          },
+				{
+					href: 'https://eddybot.ml/convite',
+					label: 'Me adicione',
+					position: 'right',
+          },
         ],
 		},
 		footer: {
