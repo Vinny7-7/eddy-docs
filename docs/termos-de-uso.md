@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 title: Termos de uso
 description: Termos de uso do Eddy bot!
 ---
