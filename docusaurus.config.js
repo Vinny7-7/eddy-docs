@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: 'Eddy docs',
-	tagline: 'Nesta página você verá a documentação do Eddy, como termo de uso e entre outros, também tem o blog, para você ficar por dentro das ultimas novidades do bot!',
+	tagline: 'Nesta página você verá a documentação do Eddy, como termo de uso e entre outros!',
 	favicon: 'img/eddy.jpg',
 
 	// Set the production url of your site here
