@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: Créditos
+description: Créditos ao Flaticon!
 ---
 
 # Créditos
