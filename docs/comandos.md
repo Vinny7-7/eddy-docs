@@ -17,8 +17,8 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Dado | Rola um dado e exibe o resultado, pode-se escolher a qunatidade de lados do dado. | 🟩 |
 | Pergunta | Envia uma mensagem que responde a sua pergunta. | 🟩 |
 | Ship | Envia uma mensagem e uma imagem com um "ship" entre duas pessoas. | 🟩 |
-## Utilidades
 
+## Utilidades
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | Binario codificar | Converte uma mensagem em texto para código binário. | 🟩 |
@@ -41,8 +41,8 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Noticias | Obtém as últimas notícias de uma determinada fonte. | 🟩 |
 | Say | Faz o bot falar uma mensagem em um canal de texto. | 🟩 |
 | Tradutor | Traduz uma mensagem de um idioma para outro. | 🟩 |
-## Referentes ao Discord
 
+## Referentes ao Discord
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | Server icon | Obtém o ícone do servidor em que o comando foi executado. | 🟩 |
@@ -50,16 +50,16 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | User avatar | Obtém o avatar de um usuário. | 🟩 |
 | User convites | Obtém o número de convites de um usuário. | 🟥 |
 | User info | Obtém informações sobre um usuário. | 🟩 |
-## Informações do bot
 
+## Informações do bot
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | Ajuda | Envia uma mensagem com a lista de comandos disponíveis. | 🟩 |
 | Bot info | Obtém informações sobre o bot, como a quantidade de servidores e a data de criação. | 🟩 |
 | Bot links | Envia uma mensagem com os links úteis relacionados ao bot, como o link de convite e o link para o servidor de suporte. | 🟩 |
 | Bot ping | Retorna o tempo de resposta do bot. | 🟩 |
-## Moderação
 
+## Moderação
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | Banir | Bane um usuário do servidor. | 🟩 |
