@@ -109,7 +109,7 @@ const config = {
 
 						{
 							label: 'Discord',
-							href: 'https://discord.gg/NkSp2zun4P',
+							href: 'https://eddybot.ml/suporte',
               },
 						{
 							label: 'Twitter',
@@ -123,7 +123,7 @@ const config = {
 
 						{
 							label: 'Me adicione',
-							href: 'https://discord.com/oauth2/authorize?client_id=942232686024593428&permissions=322702&scope=bot%20applications.commands',
+							href: 'https://eddybot.ml/convite',
               },
             ],
           },
