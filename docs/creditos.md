@@ -21,3 +21,4 @@ Eddy usa ícones do [Flaticon](https://flaticon.com), abaixo se encontra as atri
 * Icon made by [kerismaker](https://www.flaticon.com/br/autores/kerismaker) from www.flaticon.com
 * Icon made by [uniconlabs](https://www.flaticon.com/br/autores/uniconlabs) from www.flaticon.com
 * Icon made by [prosymbols](https://www.flaticon.com/br/autores/prosymbols) from www.flaticon.com
+* Icon made by [nikita-golubev](https://www.flaticon.com/authors/nikita-golubev) from www.flaticon.com
