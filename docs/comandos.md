@@ -48,7 +48,7 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Server icon | Obtém o ícone do servidor em que o comando foi executado. | 🟩 |
 | Server info | Obtém informações sobre o servidor em que o comando foi executado. | 🟩 |
 | User avatar | Obtém o avatar de um usuário. | 🟩 |
-| User convites | Obtém o número de convites de um usuário. | 🟥 |
+| User convites | Obtém o número de convites de um usuário. | 🟩 |
 | User info | Obtém informações sobre um usuário. | 🟩 |
 
 ## Informações do bot
