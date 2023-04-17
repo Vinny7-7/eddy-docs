@@ -15,6 +15,7 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Charada | Envia uma mensagem com uma charada aleatória. | 🟩 |
 | Conquista | Envia uma mensagem com uma imagem de conquista personalizavel. | 🟩 |
 | Dado | Rola um dado e exibe o resultado, pode-se escolher a qunatidade de lados do dado. | 🟩 |
+| Jogar | Jogue alguns jogos, sozinho ou com um oponente. | 🟩 |
 | Pergunta | Envia uma mensagem que responde a sua pergunta. | 🟩 |
 | Ship | Envia uma mensagem e uma imagem com um "ship" entre duas pessoas. | 🟩 |
 
