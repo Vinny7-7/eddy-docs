@@ -4,4 +4,6 @@ title: FAQ
 description: Perguntas frequentes!
 ---
 
-# Em construção!!!
+# Perguntas frequentes
+
+## Em construção!!!
