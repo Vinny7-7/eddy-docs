@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Créditos
+title: FAQ
 description: Perguntas frequentes!
 ---
 
