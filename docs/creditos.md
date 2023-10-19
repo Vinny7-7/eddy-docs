@@ -5,7 +5,7 @@ description: Créditos ao Flaticon!
 ---
 
 # Créditos
-Eddy usa ícones do [Flaticon](https://flaticon.com), abaixo se encontra as atribuições dos autores dos ícones que o Eddy usa:
+Eddy utiliza ícones do [Flaticon](https://flaticon.com), um recurso que oferece uma ampla variedade de ícones para diversas finalidades. Abaixo estão as atribuições dos talentosos autores por trás dos ícones que Eddy incorpora em seu design:
 
 * Icons made by [iconixar](https://www.flaticon.com/authors/iconixar) from www.flaticon.com
 * Icon made by [freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com

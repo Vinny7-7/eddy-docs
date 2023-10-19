@@ -1,13 +1,20 @@
 ---
 sidebar_position: 4
-title: Política de privacidade
-description: Política de privacidade do Eddy bot!
+title: Política de Privacidade
+description: Conheça a política de privacidade do Eddy Bot.
 ---
-# Política de privacidade
-Política de privacidade do Eddy bot!
-## Para onde vão meus dados?
-Seus dados como IDs não saem do Discord, são armazenados temporariamente e após o comando que precisa de um certo dado, caso for usado, esses dados serão apagados após o uso, mas fique tranquilo, pois não há nada fora do bot que use seus dados.
-## Dados armazenados temporariamente:
-Seu ID, username e avatar, para serem usados nos próprios comandos do bot, nunca fora dele.
-## Sistema de logs:
-Ao usar o sistema de logs, são armazenados os seguintes dados: ID do servidor e ID do canal de logs, para que o bot consiga encontrar o servidor em que uma mensagem foi apagada por exemplo, e enviar o log para o canal correto.
+
+# Política de Privacidade do Eddy Bot
+
+A privacidade dos nossos usuários é uma prioridade para nós. Esta política explica como tratamos e protegemos suas informações. 
+
+## Coleta e Uso de Dados
+
+### Onde meus dados são armazenados?
+
+Seus dados, como IDs, permanecem no Discord e são armazenados temporariamente pelo bot. Após o uso em um comando específico, esses dados são apagados. Pode ficar tranquilo, pois nenhum dado é utilizado fora do ambiente do bot.
+
+### Dados Armazenados Temporariamente
+
+Durante a interação, o bot armazena temporariamente seu ID, nome de usuário e avatar. Estas informações são usadas exclusivamente dentro dos comandos do bot e não são compartilhadas externamente.
+

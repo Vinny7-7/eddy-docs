@@ -1,24 +1,32 @@
 ---
 sidebar_position: 5
-title: Termos de uso
-description: Termos de uso do Eddy bot!
+title: Termos de Uso
+description: Conheça os Termos de Uso do Eddy Bot.
 ---
-# Termos de uso
-Termos de uso do Eddy bot!
-## O que posso fazer?
-* Se inspirar no bot, mas não fazer uma replica.
-* Recomendar o Eddy para seus amigos e em servidores, mas apenas se os servidores permitirem.
-* Seguir as orientações da comunidade Discord: https://discord.com/guidelines.
-## O que não posso fazer?
-* Usar o bot para propagar conteúdo +18.
-* Abusar de bugs, caso encontre algum, comunique nossa equipe no servidor de suporte.
-* Espalhar mentiras sobre o Eddy.
-* Tentar prejudicar o bot, com ataques ou algo do tipo.
-* Colocar informações pessoas nos comandos.
+
+# Termos de Uso do Eddy Bot
+
+Estes termos visam garantir a segurança e a experiência positiva para todos os usuários do Eddy Bot.
+
+## O Que Você Pode Fazer:
+
+* Se inspirar no bot, mas não criar uma réplica.
+* Recomendar o Eddy para seus amigos e em servidores, desde que os servidores permitam.
+* Seguir as orientações da comunidade Discord: [Diretrizes do Discord](https://discord.com/guidelines).
+
+## O Que Você Não Pode Fazer:
+
+* Utilizar o bot para disseminar conteúdo adulto.
+* Explorar ou abusar de quaisquer bugs. Caso encontre um, comunique nossa equipe no servidor de suporte.
+* Disseminar informações falsas sobre o Eddy.
+* Tentar prejudicar o bot através de ataques ou ações maliciosas.
+* Inserir informações pessoais nos comandos.
 * Ofender, xingar ou sexualizar o Eddy.
 
-:::danger Tome cuidado!
+:::danger Importante!
 
-O não cumprimento desses termos podem gerar punição, como banimento da comunidade ou até ser privado de usar as funcionalidades do bot!
+O não cumprimento destes termos pode resultar em punições, incluindo banimento da comunidade ou restrição de acesso às funcionalidades do bot.
 
 :::
+
+Fique atento aos Termos de Uso para garantir uma convivência saudável e segura na comunidade do Eddy Bot.
