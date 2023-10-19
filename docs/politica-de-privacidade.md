@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: Política de Privacidade
 description: Conheça a política de privacidade do Eddy Bot.
 ---

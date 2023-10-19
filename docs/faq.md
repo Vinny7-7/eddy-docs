@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 title: FAQ
 description: Perguntas frequentes!
 ---
 
-## em construção!!!
+## Em construção!!!
