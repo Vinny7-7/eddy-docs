@@ -11,7 +11,7 @@ const config = {
 	favicon: 'img/eddy.jpg',
 
 	// Set the production url of your site here
-	url: 'https://docs.eddybot.ml',
+	url: 'https://eddybot-docs.netlify.app',
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: '/',
@@ -75,17 +75,17 @@ const config = {
 					label: 'Documentação',
           },
 				{
-					href: 'https://eddybot.ml',
+					href: 'https://eddybot.netlify.app',
 					label: 'Site principal',
 					position: 'right',
           },
 				{
-					href: 'https://eddybot.ml/suporte',
+					href: 'https://eddybot.netlify.app/suporte',
 					label: 'Servidor de suporte',
 					position: 'right',
           },
 				{
-					href: 'https://eddybot.ml/convite',
+					href: 'https://eddybot.netlify.app/convite',
 					label: 'Me adicione',
 					position: 'right',
           },
@@ -99,7 +99,7 @@ const config = {
 					items: [
 						{
 							label: 'Site',
-							href: 'https://eddybot.ml/',
+							href: 'https://eddybot.netlify.app/',
               },
             ],
           },
@@ -109,7 +109,7 @@ const config = {
 
 						{
 							label: 'Discord',
-							href: 'https://eddybot.ml/suporte',
+							href: 'https://eddybot.netlify.app/suporte',
               },
 						{
 							label: 'Twitter',
@@ -123,7 +123,7 @@ const config = {
 
 						{
 							label: 'Me adicione',
-							href: 'https://eddybot.ml/convite',
+							href: 'https://eddybot.netlify.app/convite',
               },
             ],
           },
