@@ -22,3 +22,4 @@ Eddy utiliza ícones do [Flaticon](https://flaticon.com), um recurso que oferece
 * Icon made by [uniconlabs](https://www.flaticon.com/br/autores/uniconlabs) from www.flaticon.com
 * Icon made by [prosymbols](https://www.flaticon.com/br/autores/prosymbols) from www.flaticon.com
 * Icon made by [nikita-golubev](https://www.flaticon.com/authors/nikita-golubev) from www.flaticon.com
+* Icon made by [Gajah Mada](https://www.flaticon.com/authors/gajah-mada) from www.flaticon.com
