@@ -5,8 +5,8 @@ description: Lista com os comandos do bot!
 ---
 # Comandos
 Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente com a descrição do que cada comando faz e seu status, funcionando(🟩), instável(🟧) ou não funcionando(🟥).
-## Diversão
 
+## Diversão
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | Abraçar | Envia uma mensagem com uma imagem de abraço para alguém. | 🟩 |
@@ -19,14 +19,25 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Pergunta | Envia uma mensagem que responde a sua pergunta. | 🟩 |
 | Ship | Envia uma mensagem e uma imagem com um "ship" entre duas pessoas. | 🟩 |
 
+## Economia
+| Comando | Descrição | Status |
+| ------- | --------- | ------ |
+| aposta | Aposte eddyons com alguém. | 🟩 |
+| cooldowns | Veja quanto tempo falta para você realizar algumas funções no bot. | 🟩 |
+| curtir | Curta o perfil de alguém. | 🟩 |
+| daily | Resgate sua recompensa diária. | 🟩 |
+| eddyons | Veja o rank, pague alguém ou veja o saldo de alguém. | 🟩 |
+| empregos | Escolha um novo emprego. | 🟩 |
+| perfil | Veja o perfil de alguém ou mude o seu sobrenome. | 🟩 |
+| trabalhar | Realize um trabalho para ganhar eddyons. | 🟩 |
+
 ## Utilidades
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | Binario codificar | Converte uma mensagem em texto para código binário. | 🟩 |
 | Binario decodificar | Converte uma mensagem em código binário para texto. | 🟩 |
+| Cifra-de-cesar | Codifique ou decodifique uma cifra de César. | 🟩 |
 | Clima | Obtém informações meteorológicas para uma determinada cidade. | 🟩 |
-| Cor aleatoria | Gera uma cor aleatória em hexadecimal. | 🟩 |
-| Cor info | Obtém informações sobre uma cor em hexadecimal. | 🟩 |
 | Correios cep | Obtém informações sobre um determinado CEP. | 🟩 |
 | Correios rastrear | Rastreia uma encomenda dos Correios. | 🟩 |
 | Curiosidade | Envia uma mensagem com uma curiosidade aleatória. | 🟩 |
