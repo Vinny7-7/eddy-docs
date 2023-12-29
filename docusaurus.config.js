@@ -75,17 +75,17 @@ const config = {
 					label: 'Documentação',
           },
 				{
-					href: 'https://eddybot.netlify.app',
+					href: 'https://eddybot.win/',
 					label: 'Site principal',
 					position: 'right',
           },
 				{
-					href: 'https://eddybot.netlify.app/suporte',
+					href: 'https://eddybot.win/suporte',
 					label: 'Servidor de suporte',
 					position: 'right',
           },
 				{
-					href: 'https://eddybot.netlify.app/convite',
+					href: 'https://eddybot.win/convite',
 					label: 'Me adicione',
 					position: 'right',
           },
@@ -99,7 +99,7 @@ const config = {
 					items: [
 						{
 							label: 'Site',
-							href: 'https://eddybot.netlify.app/',
+							href: 'https://eddybot.win/',
               },
             ],
           },
@@ -109,7 +109,7 @@ const config = {
 
 						{
 							label: 'Discord',
-							href: 'https://eddybot.netlify.app/suporte',
+							href: 'https://eddybot.win/suporte',
               },
 						{
 							label: 'Twitter',
@@ -123,7 +123,7 @@ const config = {
 
 						{
 							label: 'Me adicione',
-							href: 'https://eddybot.netlify.app/convite',
+							href: 'https://eddybot.win/convite',
               },
             ],
           },

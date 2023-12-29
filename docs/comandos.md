@@ -23,6 +23,7 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
 | aposta | Aposte eddyons com alguém. | 🟩 |
+| cofrinho | Gerencie ou veja o saldo do seu cofrinho. | 🟩 |
 | cooldowns | Veja quanto tempo falta para você realizar algumas funções no bot. | 🟩 |
 | curtir | Curta o perfil de alguém. | 🟩 |
 | daily | Resgate sua recompensa diária. | 🟩 |
@@ -34,6 +35,8 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 ## Utilidades
 | Comando | Descrição | Status |
 | ------- | --------- | ------ |
+| Analisar digitação | Faça um teste de velociadde de digitação. | 🟩 |
+| Analisar Texto | Analisa um texto em busca de erros. | 🟩 |
 | Binario codificar | Converte uma mensagem em texto para código binário. | 🟩 |
 | Binario decodificar | Converte uma mensagem em código binário para texto. | 🟩 |
 | Cifra-de-cesar | Codifique ou decodifique uma cifra de César. | 🟩 |
@@ -42,6 +45,7 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Correios rastrear | Rastreia uma encomenda dos Correios. | 🟩 |
 | Curiosidade | Envia uma mensagem com uma curiosidade aleatória. | 🟩 |
 | Dicionario | Obtém o significado de uma palavra. | 🟩 |
+| Filme | Veja informações sobre algum filme. | 🟩 |
 | Gerar qrcode | Gera um código QR. | 🟩 |
 | Gerar senha | Gera uma senha aleatória. | 🟩 |
 | Gif | Pesquisa e envia GIF's, junto de algumas informações. | 🟩 |
@@ -53,6 +57,7 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Noticias | Obtém as últimas notícias de uma determinada fonte. | 🟩 |
 | Say | Faz o bot falar uma mensagem em um canal de texto. | 🟩 |
 | Tradutor | Traduz uma mensagem de um idioma para outro. | 🟩 |
+| Wikipedia| Procure um termo no wikipedia. | 🟩 |
 
 ## Referentes ao Discord
 | Comando | Descrição | Status |
@@ -60,7 +65,7 @@ Abaixo esta listado todos os comandos do bot dividido por categorias, juntamente
 | Server icon | Obtém o ícone do servidor em que o comando foi executado. | 🟩 |
 | Server info | Obtém informações sobre o servidor em que o comando foi executado. | 🟩 |
 | User avatar | Obtém o avatar de um usuário. | 🟩 |
-| User convites | Obtém o número de convites de um usuário. | 🟩 |
+| User convites | Obtém o número de convites de um usuário. | 🟥 |
 | User info | Obtém informações sobre um usuário. | 🟩 |
 
 ## Informações do bot
